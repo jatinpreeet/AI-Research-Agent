@@ -48,6 +48,9 @@ When you enter a research topic like "Impact of AI on Healthcare," the system:
 - A comprehensive report is generated with introduction, insights, and conclusion
 - Professional PDF formatting with proper citations and sources
 
+  
+[research_report_LangGraph_affect_on_startups_in_the_agentic_Ai_sec.pdf](https://github.com/user-attachments/files/21126299/research_report_LangGraph_affect_on_startups_in_the_agentic_Ai_sec.pdf)
+
 
 
 ## Key Features
