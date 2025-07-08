@@ -139,6 +139,9 @@ The entire process typically takes 2-5 minutes depending on topic complexity.
 
 ## Architecture
 
+![Unknown-2](https://github.com/user-attachments/assets/280aa571-c315-4f4a-994e-aa531ac599b6)
+
+
 The system implements a sophisticated map-reduce pattern for multi-agent research:
 
 ### Map Phase
