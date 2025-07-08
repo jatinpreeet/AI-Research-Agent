@@ -1,5 +1,8 @@
 # AI Research Agent
 
+<img width="1389" alt="Screenshot 2025-07-08 at 7 09 18 PM" src="https://github.com/user-attachments/assets/d51a50b8-6fe2-4412-bc37-6b6b67d6ef82" />
+
+
 A sophisticated multi-agent research automation platform that leverages AI to conduct comprehensive research on any topic. The system generates specialized research teams, conducts expert interviews, and produces detailed analytical reports.
 
 ## What Does This Do?
@@ -20,10 +23,17 @@ When you enter a research topic like "Impact of AI on Healthcare," the system:
 - Generates 3 specialized AI analysts with distinct expertise areas
 - Each analyst has a unique perspective, affiliation, and research focus
 
+<img width="1389" alt="Screenshot 2025-07-08 at 7 09 47 PM" src="https://github.com/user-attachments/assets/7ffe2147-757e-4562-ab45-b09527ee91de" />
+
+
 ### Step 2: Human Review & Feedback
 - You review the proposed research team
 - Provide feedback to adjust expertise areas (e.g., "Add a patient advocacy perspective")
 - Regenerate the team with your feedback incorporated
+
+<img width="1389" alt="Screenshot 2025-07-08 at 7 11 01 PM" src="https://github.com/user-attachments/assets/b63f4c7f-9206-41bb-b12c-3e88b18b6c03" />
+
+
 
 ### Step 3: Automated Research Execution
 - Each analyst conducts structured interviews with AI experts
@@ -31,10 +41,14 @@ When you enter a research topic like "Impact of AI on Healthcare," the system:
 - Wikipedia integration provides foundational knowledge
 - All sources are tracked and cited properly
 
+<img width="1389" alt="Screenshot 2025-07-08 at 9 54 00 PM" src="https://github.com/user-attachments/assets/49aedde5-29fe-44b3-a8a5-e41f4703be2b" />
+
 ### Step 4: Report Generation
 - Individual analyst findings are synthesized into coherent sections
 - A comprehensive report is generated with introduction, insights, and conclusion
 - Professional PDF formatting with proper citations and sources
+
+
 
 ## Key Features
 
